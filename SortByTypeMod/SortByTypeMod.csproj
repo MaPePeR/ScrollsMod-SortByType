@@ -30,16 +30,16 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="Mono.Cecil">
-      <HintPath>..\..\..\ScrollsModding\TutorialCondom\Template.mod\Mono.Cecil.dll</HintPath>
+      <HintPath>..\Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="ScrollsModLoader.Interfaces">
-      <HintPath>..\..\..\ScrollsModding\TutorialCondom\Template.mod\ScrollsModLoader.Interfaces.dll</HintPath>
+      <HintPath>..\ScrollsModLoader.Interfaces.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\ScrollsModding\TutorialCondom\Template.mod\UnityEngine.dll</HintPath>
+      <HintPath>..\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\ScrollsModding\TutorialCondom\Template.mod\Assembly-CSharp.dll</HintPath>
+      <HintPath>..\Assembly-CSharp.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
